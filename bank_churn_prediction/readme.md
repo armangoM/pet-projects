@@ -20,4 +20,4 @@
 
 
 ## Используемые инструменты
-*pandas, matplotlib, seaborn, scipy, sklearn, , catboost, lightgbm*
+*pandas, matplotlib, seaborn, scipy, sklearn, catboost, lightgbm*
