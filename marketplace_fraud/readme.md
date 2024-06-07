@@ -27,7 +27,7 @@
 
 Ссылка на pdf-версию: https://drive.google.com/file/d/1V2SOntSr0c3gKnsxLTO2fOjOiXa1IZOn/view?usp=sharing
 
-Работа вошла в топ-10 в конкурсе от Samokat.tech
+**Работа вошла в топ-10 в конкурсе от Samokat.tech**
 
 ## Используемые инструменты
 *pandas, matplotlib, seaborn, scipy*
